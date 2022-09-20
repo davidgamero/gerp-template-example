@@ -1,2 +1,2 @@
 console.log('{{greeting}}');
-// comment 2
+// comment from davidgamero/gerp-template-example
